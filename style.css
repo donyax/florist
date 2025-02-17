@@ -50,5 +50,18 @@ ul li a:hover::after{
 nav{
     background-color:beige;
     justify-content: space-evenly;
+
+    }
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(41, 47, 47);
     
 }
+
+
+
+
+
